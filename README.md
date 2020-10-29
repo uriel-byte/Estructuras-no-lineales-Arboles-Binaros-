@@ -9,12 +9,16 @@ Estructuras no lineales  Arboles.
 
 A continuacion capturas del codigo..
 
+en la primera parte podemos observar las funciones para mostrar los recorridosque hizo el arbol, ademas se creo el puntero para facilitar la creacion de los nodos.
+
 ![Captura de pantalla (392) png](https://user-images.githubusercontent.com/71051834/97524010-44b67200-1969-11eb-9689-5182c39aaac4.jpg)
 
 
+en la segunda parte tambien podemos ver parte de la funciones para mostrar los recorridos, ademas de otras funciones para poder visualizar los datos del arbol.
 ![Captura de pantalla (393) png](https://user-images.githubusercontent.com/71051834/97524021-497b2600-1969-11eb-96e0-553a1e5f66e6.jpg)
 
 
+en la tercera parte esta el int main.
 ![Captura de pantalla (394) png](https://user-images.githubusercontent.com/71051834/97524025-4c761680-1969-11eb-8736-e6cd89980a9f.jpg)
 
 
