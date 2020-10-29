@@ -20,6 +20,9 @@ A continuacion capturas del codigo..
 
 a continuacion se muestran las capturas de la consola para validar que funciones en programa.
 
+el programa al ejecutarse nos pregunta cuantos nodos queremos que tenga el arbol, despues nos pedira que ingresmos numeros dependiendo del numero de nodos que pusimos, luego nos muestra  el arbol apartir de los nodos, mas adelante nos muestra los diferentes recorridos  y con eso finaliza el programa.
+
+
 ![Captura de pantalla (395) png](https://user-images.githubusercontent.com/71051834/97524076-631c6d80-1969-11eb-82e0-95d6728a041a.jpg)
 
 
