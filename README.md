@@ -7,6 +7,8 @@ Estructuras no lineales  Arboles.
 
 + Para visualizar o consultar los datos almacenados en un árbol se necesita recorrer el árbol o visitar los nodos del mismo. Al contrario que las listas enlazadas, los árboles binarios no tienen realmente un primer valor, un segundo valor, tercer valor, etc. Se puede afirmar que el nodo raíz viene el primero.
 
+A continuacion capturas del codigo..
+
 ![Captura de pantalla (392) png](https://user-images.githubusercontent.com/71051834/97524010-44b67200-1969-11eb-9689-5182c39aaac4.jpg)
 
 
