@@ -9,12 +9,12 @@ Estructuras no lineales  Arboles.
 
 A continuacion capturas del codigo..
 
-en la primera parte podemos observar las funciones para mostrar los recorridosque hizo el arbol, ademas se creo el puntero para facilitar la creacion de los nodos.
+en la primera parte podemos observar dos funciones de operacion las cuales son crearnodo e insertar esto para crear y añadir nodos a nuestro arbol para mostrar los recorridos que hizo el arbol, ademas se creo el puntero para facilitar la creacion de los nodos.
 
 ![Captura de pantalla (392) png](https://user-images.githubusercontent.com/71051834/97524010-44b67200-1969-11eb-9689-5182c39aaac4.jpg)
 
 
-en la segunda parte tambien podemos ver parte de la funciones para mostrar los recorridos, ademas de otras funciones para poder visualizar los datos del arbol.
+en la segunda parte tambien podemos ver parte de la funciones de recorrido que son 3, preorden, inorden y postorden para mostrar los recorridos, ademas de otras funciones para poder visualizar los datos del arbol.
 ![Captura de pantalla (393) png](https://user-images.githubusercontent.com/71051834/97524021-497b2600-1969-11eb-96e0-553a1e5f66e6.jpg)
 
 
