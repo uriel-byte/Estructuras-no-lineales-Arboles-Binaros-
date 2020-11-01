@@ -1,4 +1,4 @@
-# Estructuras-no-lineales-Arboles-Binaros-
+# Estructuras-no-lineales-Arboles-Binarios-
 Estructuras no lineales  Arboles.
 
 **Un árbol binario es un árbol en el que ningún nodo puede tener más de dos subárboles. En un árbol binario, cada nodo puede tener, cero, uno o dos hijos (subárboles). Se conoce el nodo de la izquierda como hijo izquierdo y el nodo de la derecha como hijo derecho.**
